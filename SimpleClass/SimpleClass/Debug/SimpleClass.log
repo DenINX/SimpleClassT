@@ -1,0 +1,5 @@
+﻿  SimpleClass.cpp
+  triangle.cpp
+C:\Users\denis\OneDrive\Desktop\SimpleClass\SimpleClass\SimpleClass\triangle.cpp(38,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  SimpleClass.vcxproj -> C:\Users\denis\OneDrive\Desktop\SimpleClass\SimpleClass\Debug\SimpleClass.exe
